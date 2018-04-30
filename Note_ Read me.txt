@@ -1,0 +1,14 @@
+This project supports:
+1. First , Best , Worst allocating processes Techniques 
+2. Deallocate processes 
+
+
+
+Note : 
+When the Memory has two adjacent holes , This program will not add them and make a larger hole . 
+We will fix this soon 
+
+
+Good luck .
+
+Doaa Jaber Abuiyada 
